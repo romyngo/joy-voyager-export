@@ -1,5 +1,5 @@
 {
-    "name": "joy/voyager-export",
+    "name": "romyngo/voyager-export",
     "description": "This Laravel/Voyager module adds VoyagerExport support to Voyager.",
     "keywords": [
         "joy",
@@ -24,7 +24,7 @@
         "joy/voyager-core": "^1.0|^2.0|^3.0",
         "maatwebsite/excel": "^3.1",
         "psr/simple-cache": "^1.0 || ^2.0 || ^3.0",
-        "tcg/voyager": "^1.4|dev-1.6-l10"
+        "romyngo/voyager": "*"
     },
     "require-dev": {
         "ext-pdo_sqlite": "*",
